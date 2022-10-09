@@ -1,0 +1,4 @@
+--------------------Configuration: 17-2 - Win32 Debug--------------------
+Linking...
+
+17-2.exe - 0 error(s), 0 warning(s)

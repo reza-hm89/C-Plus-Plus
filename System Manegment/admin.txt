@@ -1,0 +1,7 @@
+1|MA|123456|Mohammad|Ahmadi|17|0915|
+1|BN|4894654|Bahman|Nazeri|23|0915|
+1|DT|1684122|Davood|Torabzade|20|0912|
+1|SZ|46156274|Salar|Zarrin|20|0935|
+1|MM|111|Mina|Mohammadi|19|0936|
+1|SV|1684541|Sina|Vahdani|23|0915|
+1|LA|1516513|Lida|Akbari|19|0938|

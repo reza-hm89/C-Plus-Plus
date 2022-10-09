@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WEP", "WEP\WEP.vcxproj", "{93CD118B-9AD3-4BD1-998E-5E6A16CB64A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93CD118B-9AD3-4BD1-998E-5E6A16CB64A6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{93CD118B-9AD3-4BD1-998E-5E6A16CB64A6}.Debug|Win32.Build.0 = Debug|Win32
+		{93CD118B-9AD3-4BD1-998E-5E6A16CB64A6}.Release|Win32.ActiveCfg = Release|Win32
+		{93CD118B-9AD3-4BD1-998E-5E6A16CB64A6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

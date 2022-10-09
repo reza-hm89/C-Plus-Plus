@@ -1,0 +1,13 @@
+int Transpose (int a[][3],int n)
+{
+	int i,j,sw=1;
+	for (i=0;i<n;i++)
+	{
+		for (j=i+1;j<n;j++)
+		{
+			if (a[i][0]==a[j][1] && a[i][1]==a[j][0] && a[i][2]!=a[j][2])
+				se=0;
+		}
+	}
+	return sw;
+}

@@ -1,0 +1,9 @@
+0|1|1|1|1|1|1|1|
+0|1|AM|123456|Ali|Minavand|25|915|
+0|1|RA|1561313|Reyhane|Akbari|19|915|
+0|1|MK|4894654|Mahsa|Kamel|20|913|
+0|1|HB|1684122|Hosein|Bagheri|15|912|
+0|1|FR|123|Fahime|Reyhani|22|911|
+0|1|IG|4641274|Iman|Gordgiduz|21|918|
+0|1|RH|1564524|Reza|Hoseini|21|936|
+0|1|RJ|1684541|Reza|Javadzadeh|23|935|

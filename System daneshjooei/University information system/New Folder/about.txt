@@ -1,0 +1,3 @@
+University information system
+
+These project about University information system. Here are three files. First you have put "class" and "grap" file in your tc include folder. then run the a22 file normally. 
